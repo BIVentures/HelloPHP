@@ -1,2 +1,2 @@
 # HelloPHP
-Part-of-Speech Tagging Code for Display
+Php Sample code for Display
